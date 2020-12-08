@@ -16,6 +16,10 @@ footer {
   font-family: sans-serif;
 }
 
+a {
+  color: #a0e4f1
+}
+
 .w {
   background-image: url("images/tom1.png")
 }
